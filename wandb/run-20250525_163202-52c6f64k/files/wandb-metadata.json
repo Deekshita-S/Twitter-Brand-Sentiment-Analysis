@@ -1,0 +1,27 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.6",
+  "startedAt": "2025-05-25T11:02:02.160258Z",
+  "program": "c:\\Users\\deeks\\twitter_sentiment_analysis\\bert_sentiment\\main.py",
+  "codePath": "bert_sentiment\\main.py",
+  "email": "deekshita809@gmail.com",
+  "root": "C:\\Users\\deeks\\twitter_sentiment_analysis",
+  "host": "LAPTOP-SL1OMSOV",
+  "executable": "C:\\Users\\deeks\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "codePathLocal": "bert_sentiment\\main.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "509722226688",
+      "used": "281763471360"
+    }
+  },
+  "memory": {
+    "total": "16952647680"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

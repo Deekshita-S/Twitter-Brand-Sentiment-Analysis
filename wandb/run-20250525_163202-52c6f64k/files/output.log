@@ -1,0 +1,5 @@
+Starting model training...
+[34m[1mwandb[0m: [33mWARNING[0m The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+  0%|                                                                                                                                                   | 0/6670 [00:00<?, ?it/s]C:\Users\deeks\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\utils\data\dataloader.py:665: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  1%|▋                                                                                                                                     | 35/6670 [47:52<137:30:22, 74.61s/it]
